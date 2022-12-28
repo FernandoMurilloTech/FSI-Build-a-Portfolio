@@ -2,18 +2,22 @@ body {
     background-color: grey;
 }
 h1 {
-    text-align: center;
-    color: white;
-    size: 250px;
-}
+    text-align:center;
+font-size: 250%;
+    }
 h2 {
     text-align: center;
-    color: white;
-    size: 200px;
+      font-size: 190%;
 }
 p {
     font-style: oblique;
     font-size: larger;
     border-style: dashed;
     border-radius: 10px;
+}
+.info {
+    text-align: center;
+}
+.email {
+    text-align: center;
 }
